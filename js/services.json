@@ -1,0 +1,154 @@
+[
+	{
+		"name": "2D Tumor Assays",
+		"group": "In Vitro Oncology Services",
+		"size": 100,
+		"content": "Our 2D assays can be used in combination studies and to assess potency and selectivity, identify MoA via COMPARE analysis, and analyze multidrug resistance.",
+		"link": "https://www.criver.com/products-services/discovery-services/vitro-biology/vitro-oncology-assays/2d-assays",
+		"resources": []
+	},
+	{
+		"name": "3D Tumor Assays",
+		"group": "In Vitro Oncology Services",
+		"size": 100,
+		"content": "Our 3D assays enable you to evaluate the potency of your compound compared to standard-of-care drugs so you can find the most promising drug candidates, tumor histotypes and molecular subtypes for further testing.",
+		"link": "https://www.criver.com/products-services/discovery-services/vitro-biology/vitro-oncology-assays/3d-assays",
+		"resources": []
+	},
+	{
+		"name": "Flow Cytometry",
+		"group": "In Vitro Oncology Services",
+		"size": 100,
+		"content": "Multiplex flow cytometry enables a comprehensive analysis of the immune system, allowing identification of various cell populations and deep interrogation of an immune response elicited from novel therapeutics.",
+		"link": "https://www.criver.com/products-services/discovery-services/vivo-pharmacology/oncology-translational-tools/flow-cytometry",
+		"resources": []
+	},
+	{
+		"name": "Immuno-Oncology In Vitro Assays",
+		"group": "In Vitro Oncology Services",
+		"size": 100,
+		"content": "Using state-of-the-art technology and industry-recognized protocols, we can confirm the activation of immune cell populations, help elucidate the mechanism of action, and, in co-culture environments, confirm clustering of T cells, and visualize and quantitate T-cell-mediated cancer cell killing.",
+		"link": "https://www.criver.com/products-services/discovery-services/vitro-biology/vitro-immuno-oncology-assays",
+		"resources": []
+	},
+	{
+		"name": "Stem Cell Technology",
+		"group": "In Vitro Oncology Services",
+		"size": 100,
+		"content": "Custom-based assays using human embryonic stem cells (hESC) and human induced pluripotent stem cells (hiPSC) from diseased donors and healthy controls aid drug screening, biomarker discovery, and evaluation of disease pathophysiology.",
+		"link": "https://www.criver.com/products-services/discovery-services/vitro-biology/human-primary-cellular-assays/stem-cells",
+		"resources": []
+	},
+	{
+		"name": "CRISPR Gene Editing",
+		"group": "In Vitro Oncology Services",
+		"size": 100,
+		"content": "CRISPR/Cas9 gene editing technology allows us to make precise modifications to DNA. Use this careful experimental design for target screening alone or alongside RNAi screening with our shRNA library (SilenceSelect<sup>®</sup>), and to create complex custom knock-in and knock-out cell lines for numerous applications.",
+		"link": "https://www.criver.com/products-services/discovery-services/vitro-biology/genome-engineering-techniques/crispr-gene-editing",
+		"resources": []
+	},
+	{
+		"name": "Ion Channel Selectivity Profiling",
+		"group": "In Vitro Oncology Services",
+		"size": 100,
+		"content": "Several ion channels have been shown to be upregulated in cancer cells and may be integral to the mechanism of cancer cell proliferation and tumor growth. These channels have been proposed as cancer markers, and channel blockers are in development as tumor growth inhibitors. Our Cancer Channel Panel<sup>®</sup> includes many of the ion channels that have been linked to cancer cell proliferation.",
+		"link": "https://www.criver.com/products-services/discovery-services/vitro-biology/ion-channel-screening/ion-channel-selectivity-profiling-assays",
+		"resources": []
+	},
+	{
+		"name": "Xenograft Models",
+		"group": "In Vivo Oncology Services",
+		"size": 100,
+		"content": "Xenograft models allow you to test the efficacy of your therapy, and can be combined with various other forms of analysis, including hematology PK and bioavailability, histopathology, and biomarkers.",
+		"link": "https://www.criver.com/products-services/discovery-services/vivo-pharmacology/oncology-pharmacology-models/human-tumor-xenografts-mice",
+		"resources": []
+	},
+	{
+		"name": "Syngeneic Models",
+		"group": "In Vivo Oncology Services",
+		"size": 100,
+		"content": "Unlike xenografts, syngeneic models provide an effective approach for studying how cancer therapies perform in the presence of a functional immune system.",
+		"link": "https://www.criver.com/products-services/discovery-services/vivo-pharmacology/oncology-pharmacology-models/syngeneic-models",
+		"resources": []
+	},
+	{
+		"name": "Patient-Derived Xenograft Models",
+		"group": "In Vivo Oncology Services",
+		"size": 100,
+		"content": "Conserving original tumor characteristics (e.g., histology, biomolecular signature, malignant phenotypes and genotypes, architecture and vasculature), PDX models offer relevant predictive insights into clinical outcomes when evaluating the efficacy of novel cancer therapies.",
+		"link": "https://www.criver.com/products-services/discovery-services/vivo-pharmacology/oncology-pharmacology-models/patient-derived-xenografts-pdx",
+		"resources": []
+	},
+	{
+		"name": "Humanized Models",
+		"group": "In Vivo Oncology Services",
+		"size": 100,
+		"content": "Our humanized mouse models have been characterized with known immune checkpoint inhibitors of clinical relevance to help take the next step in evaluating your compound in immuno-oncology.",
+		"link": "https://www.criver.com/products-services/discovery-services/vivo-pharmacology/oncology-pharmacology-models/human-tumor-xenografts-mice",
+		"resources": []
+	},
+	{
+		"name": "Orthotopic Models",
+		"group": "In Vivo Oncology Services",
+		"size": 100,
+		"content": "Orthotopic seeding of human tumor cell lines allows tumors to develop in a complimentary environment, allowing for a more representative strategy of primary tumor growth, metastatic activity, and response to therapy scenarios.",
+		"link": "https://www.criver.com/products-services/discovery-services/vivo-pharmacology/oncology-pharmacology-models/orthotopic-models",
+		"resources": []
+	},
+	{
+		"name": "Optical Imaging",
+		"group": "In Vivo Oncology Services",
+		"size": 100,
+		"content": "Bioluminescence and fluorescence imaging sheds light on a number of biological events happening within a live animal, allowing you to monitor things like tumor growth and metastasis.",
+		"link": "https://www.criver.com/products-services/discovery-services/vivo-pharmacology/oncology-translational-tools/optical-imaging",
+		"resources": []
+	},
+	{
+		"name": "Immunodeficient Mice",
+		"group": "Oncology Animal Models, Products, and Services",
+		"size": 100,
+		"content": "Not only can we help you select the right mouse for your studies from wide portfolio of immunodeficients, including the NCG, Nu/Nu, SCID, and NOD SCID mouse models, but we can perform your studies for you should your program require.",
+		"link": "https://www.criver.com/products-services/find-model?f%5B0%5D=specie_types%3A91&fulltext=&page=0",
+		"resources": []
+	},
+	{
+		"name": "Humanization Kit",
+		"group": "Oncology Animal Models, Products, and Services",
+		"size": 100,
+		"content": "Study-ready, efficient, flexible, and trusted, the NCG/PBMC Select Humanization Kit uses pre-tested peripheral blood mononuclear cells for engraftment in the NCG mouse, allowing you to create your own humanized model on your own timeline.",
+		"link": "https://www.criver.com/about-us/ncgpbmc-select-humanization-kit",
+		"resources": []
+	},
+	{
+		"name": "Cell Line Testing",
+		"group": "Oncology Animal Models, Products, and Services",
+		"size": 100,
+		"content": "When you need to introduce biologics of rodent or human origin into research animals as part of an investigative procedure, our testing services will ensure that your biologics are free of infectious agents and are originating from the appropriate host species.",
+		"link": "https://www.criver.com/products-services/research-models-services/animal-health-surveillance/cell-lineresearch-biologics-screening",
+		"resources": []
+	},
+	{
+		"name": "Model Creation",
+		"group": "Oncology Animal Models, Products, and Services",
+		"size": 100,
+		"content": "When an off-the-shelf model isn’t a good fit, we’ll help you select, customize, create, and maintain the right mouse model for your studies using the latest technologies.",
+		"link": "https://www.criver.com/products-services/research-models-services/genetically-engineered-model-services/transgenic-mouse-and-rat-model-creation",
+		"resources": []
+	},
+	{
+		"name": "Genetically Engineered Model Breeding",
+		"group": "Oncology Animal Models, Products, and Services",
+		"size": 100,
+		"content": "Your animal models are an asset. Our full-service rodent colony management program delivers animals when you need them, in the exact quantities you specify, and with the health status that you require.",
+		"link": "https://www.criver.com/products-services/research-models-services/genetically-engineered-model-services/mouse-rat-breeding",
+		"resources": []
+	},
+	{
+		"name": "Scientific Advisory Services",
+		"group": "Oncology Animal Models, Products, and Services",
+		"size": 100,
+		"content": "Our team of Integrated Drug Discovery experts has a proven track record in oncology drug discovery, and can help you make the most of your investment dollars with the right models and methods to move your therapy to market.",
+		"link": "https://www.criver.com/products-services/discovery-services/integrated-drug-discovery",
+		"resources": []
+	}
+]
